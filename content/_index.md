@@ -60,7 +60,7 @@ sections:
           location: Toulouse
           date_start: '2018-09-01'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Writing my JMP.
     design:
       columns: '2'
   # - block: accomplishments
@@ -245,7 +245,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id:
+          id: https://formspree.io/f/oscar.fentanes@tse-fr.eu
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
