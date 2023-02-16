@@ -5,14 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title:
-      image:
-      cta:
-      cta_alt:
-      cta_note:
-
   - block: about.avatar
     id: about
     content:
