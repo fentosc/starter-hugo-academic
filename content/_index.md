@@ -26,7 +26,7 @@ sections:
           icon_pack: fas
         - name: Stata
           description: 80%
-          icon: camera-retro
+          icon: calculator
           icon_pack: fas
   - block: experience
     content:
