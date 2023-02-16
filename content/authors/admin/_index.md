@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: o.fentanes.t@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Oscar_Fentanes
