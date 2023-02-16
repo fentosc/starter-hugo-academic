@@ -43,7 +43,7 @@ sections:
         - title: Analyst
           company: IADB
           company_url: ''
-          company_logo: org-gc
+          company_logo: IDB_logo
           location: California
           date_start: '2014-06-01'
           date_end: '2018-06-01'
