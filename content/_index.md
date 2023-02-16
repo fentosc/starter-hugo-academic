@@ -53,13 +53,13 @@ sections:
               * Analysing
               * Modelling
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: PhD student
+          company: Toulouse School of Economics
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Toulouse
+          date_start: '2018-09-01'
+          date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
