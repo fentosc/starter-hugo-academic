@@ -56,7 +56,7 @@ sections:
         - title: PhD student
           company: Toulouse School of Economics
           company_url: ''
-          company_logo: TSE_Logo_2019
+          company_logo: org-x
           location: Toulouse
           date_start: '2018-09-01'
           date_end: ''
