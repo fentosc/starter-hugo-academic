@@ -22,7 +22,7 @@ sections:
           icon_pack: fab
         - name: Julia
           description: 50%
-          icon: chart-line
+          icon: table-cells
           icon_pack: fas
         - name: Stata
           description: 80%
