@@ -245,7 +245,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id: https://formspree.io/f/oscar.fentanes@tse-fr.eu
+          id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
