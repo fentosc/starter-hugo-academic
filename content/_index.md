@@ -43,7 +43,7 @@ sections:
         - title: Analyst
           company: IADB
           company_url: ''
-          company_logo: org-gc
+          company_logo: building-ngo
           location: California
           date_start: '2014-06-01'
           date_end: '2018-06-01'
@@ -56,7 +56,7 @@ sections:
         - title: PhD student
           company: Toulouse School of Economics
           company_url: ''
-          company_logo: org-x
+          company_logo: school
           location: Toulouse
           date_start: '2018-09-01'
           date_end: ''
