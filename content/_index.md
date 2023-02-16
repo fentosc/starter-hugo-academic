@@ -20,14 +20,14 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Julia
+          description: 50%
           icon: chart-line
-        #   icon_pack: fas
-        # - name: Photography
-        #   description: 10%
-        #   icon: camera-retro
-        #   icon_pack: fas
+          icon_pack: fas
+        - name: Stata
+          description: 80%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -156,14 +156,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
