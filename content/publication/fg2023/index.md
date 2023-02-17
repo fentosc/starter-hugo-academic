@@ -2,7 +2,7 @@
 title: "Growth and the plant size distribution over the long-run"
 authors:
 - admin
-- Jonas gathen
+- Jonas Gathen
 author_notes:
 - "TSE"
 - "TSE"
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ALPHAEDITORIAL"
-publication_short: "ISBN: 9789587788402"
+publication: "TSE Working Paper"
+publication_short: "TSE Working Paper"
 
-abstract: In this paper, we study the link between rapid economic growth and changes in the plant size distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment. To link these facts, we use a statistical accounting exercise to decompose output growth into aggregate productivity growth, input growth and selection and reallocation effects
+abstract: In this paper, we study the link between rapid economic growth and changes in the plant size distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment. To link these facts, we use a statistical accounting exercise to decompose output growth into aggregate productivity growth, input growth and selection and reallocation effects.
 
 # Summary. An optional shortened abstract.
 summary: 
