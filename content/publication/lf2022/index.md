@@ -25,7 +25,7 @@ publication_short: "IDB Working Paper Series"
 abstract: This note 
 
 # Summary. An optional shortened abstract.
-summary: This note focuses on some features of Mexico's labor market that, in our view, are crucial to understand the effects of NAFTA-USMCA on wage in Mexico. In our assessment, we find that: (i) Despite NAFTA, 
+summary: This note focuses on some features of Mexico's labor market that, in our view, are crucial to understand the effects of NAFTA-USMCA on wage in Mexico. In our assessment, we find that: 1) Despite NAFTA, 
 
 tags:
 - Source Themes
