@@ -1,5 +1,5 @@
 ---
-title: "The heterogeneous impacts of import competition on Mexican manufacturing plants4"
+title: "The heterogeneous impacts of import competition on Mexican manufacturing plants"
 authors:
 - admin
 - Juan Blyde
@@ -34,7 +34,7 @@ featured: false
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: https://publications.iadb.org/en/heterogeneous-impacts-import-competition-mexican-manufacturing-plants
+url_pdf: http://dx.doi.org/10.18235/0002048
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
