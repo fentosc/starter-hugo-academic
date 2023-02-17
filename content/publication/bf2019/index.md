@@ -1,13 +1,11 @@
 ---
-title: "The longitudinal linkage of Mexico’s economic census 1999-2014"
+title: "The heterogeneous impacts of import competition on Mexican manufacturing plants4"
 authors:
 - admin
-- Matias Busso
-- Santiago levy
+- Juan Blyde
 author_notes:
 - "TSE"
 - "IADB"
-- "Brookings"
 date: "2018-09-01T00:00:00Z"
 doi: ""
 
@@ -21,8 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Inter-American Development Bank"
-publication_short: "Technical Note IDB-TN-1477"
+publication: "IDB Working Paper Series, No. IDB-WP-01087"
+publication_short: "IDB Working Paper Series"
 
 abstract: This technical note describes the methodology to construct a longitudinal dataset using the Economic Censuses of Mexico from 1999 to 2014. The procedure is based on an algorithm that links establishments with identical or significantly similar location, legal entity and industry. Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining 90 percent accuracy. The note links 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.
 

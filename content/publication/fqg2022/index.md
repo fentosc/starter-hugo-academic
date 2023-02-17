@@ -39,7 +39,6 @@ featured: true
 url_pdf: https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: https://oscarfentanes.com/libro/datos_solow.xlsx
-url_buy: https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
