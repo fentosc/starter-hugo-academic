@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: "IDB Working Paper Series, No. IDB-WP-01087"
 publication_short: "IDB Working Paper Series"
 
-abstract: This note focuses on some features of Mexico's labor market that, in our view, are crucial to understand the effects of NAFTA USMCA on wage in Mexico. In our assessment we find that: Despite NAFTA, average wages in Mexico did not increase from their pre-NAFTA levels, although in its absence they would have been marginally lower. So long as Mexico's current domestic regulations remain, particularly those pertaining to labor and social insurance, it is unlikely that the USMCA, the trade pact that superseded NAFTA in 2019, will lead to higher average wages. If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.
+abstract: This note focuses on some features of Mexico labor market that, in our view, are crucial to understand the effects of NAFTA USMCA on wage in Mexico. In our assessment we find that: Despite NAFTA, average wages in Mexico did not increase from their pre-NAFTA levels, although in its absence they would have been marginally lower. So long as Mexico current domestic regulations remain, particularly those pertaining to labor and social insurance, it is unlikely that the USMCA, the trade pact that superseded NAFTA in 2019, will lead to higher average wages. If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.
 
 # Summary. An optional shortened abstract.
 summary: This note focuses on some features of Mexico’s labor market that, in our view, are crucial to understand the effects of NAFTA-USMCA on wage in Mexico.
