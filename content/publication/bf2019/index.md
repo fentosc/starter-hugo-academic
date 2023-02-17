@@ -22,10 +22,10 @@ publication_types: ["4"]
 publication: "IDB Working Paper Series, No. IDB-WP-01087"
 publication_short: "IDB Working Paper Series"
 
-abstract: This technical note describes the methodology to construct a longitudinal dataset using the Economic Censuses of Mexico from 1999 to 2014. The procedure is based on an algorithm that links establishments with identical or significantly similar location, legal entity and industry. Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining 90 percent accuracy. The note links 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.
+abstract: We study the impact of import competition on Mexican firm outcomes between 2003 and 2013 by exploiting variation in import penetration across industries. Focusing on the increase in import competition from China that Mexico experienced during this period, we find that the trade shock induced a decline in employment, sales, exports, and productivity. Importantly, the results show that the average impact hides significant heterogeneity effects, with smaller and less efficient plants experiencing the largest adjustments, while the most efficient plants exhibited relatively minor effects and, for some outcomes, no effects at all. The existence of heterogeneous impacts across establishments is consistent with other sets of findingsfor instance, that the productivity gap between small and large plants has been increasing over time and that the reallocation of resources has been productivity-enhancing, particularly in sectors that have experienced large-scale import penetration from China.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We study the impact of import competition on Mexican firm outcomes between 2003 and 2013 by exploiting variation in import penetration across industries.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: http://dx.doi.org/10.18235/0001338
+url_pdf: https://publications.iadb.org/en/heterogeneous-impacts-import-competition-mexican-manufacturing-plants
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -46,7 +46,7 @@ url_pdf: http://dx.doi.org/10.18235/0001338
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**INEGI**](https://rde.inegi.org.mx/wp-content/uploads/2019/05/RDE28_05_img00.jpg)'
+  caption: 'Image credit: **Wikipedia**
   focal_point: ""
   preview_only: false
 
