@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IDB Working Paper Series, Technical Note IDB-TN-1477"
-publication_short: "IDB Working Paper Series"
+publication: "Realidad, datos y espacio. Revista internacional de estadística y geografía"
+publication_short: "RDE, INEGI"
 
 abstract: Esta nota técnica describe la metodología para construir una base de datos longitudinal a partir de los Censos Económicos de 1994 hasta 2014. El proceso se basa en un algoritmo que enlaza establecimientos con idéntica o similar ubicación, entidad legal y clase de actividad. Puesto que ya existe un conjunto de identificadores longitudinales para los de 2009 y 2014, éstos son utilizados para validar nuestros resultados, obteniendo 90% de precisión. Enlazamos 0.92 millones de establecimientos para los Censos 1994-1999, 1.44 millones para 1999-2004, 1.52 millones para 2004-2009 y 2.15 millones para 2009-2014.
 
