@@ -5,8 +5,9 @@ authors:
 - Matias Busso
 - Santiago levy
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "TSE"
+- "IADB"
+- "Brookings"
 date: "2018-09-01T00:00:00Z"
 doi: ""
 
