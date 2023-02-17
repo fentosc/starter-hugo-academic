@@ -1,12 +1,13 @@
 ---
-title: "An example journal article"
+title: "The longitudinal linkage of mexico’s economic census 1999-2014"
 authors:
 - admin
-- Robert Ford
+- Matias Busso
+- Santiago levy
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +23,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This technical note describes the methodology to construct a longitudinal dataset using the Economic Censuses of Mexico from 1999 to 2014. The procedure is based on an algorithm that links establishments with identical or significantly similar location, legal entity and industry. Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining 90 percent accuracy. The note links 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,10 +32,10 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+# links: 
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://dx.doi.org/10.18235/0001338
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
