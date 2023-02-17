@@ -12,57 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Julia
-          description: 50%
-          icon: table-cells
-          icon_pack: fas
-        - name: Stata
-          description: 80%
-          icon: calculator
-          icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Analyst
-          company: IADB
-          company_url: ''
-          company_logo: IDB_logo
-          location: California
-          date_start: '2014-06-01'
-          date_end: '2018-06-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-
-        - title: PhD student
-          company: Toulouse School of Economics
-          company_url: ''
-          company_logo: org-x
-          location: Toulouse
-          date_start: '2018-09-01'
-          date_end: ''
-          description: Writing my JMP.
-    design:
-      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -248,4 +197,55 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Julia
+          description: 50%
+          icon: table-cells
+          icon_pack: fas
+        - name: Stata
+          description: 80%
+          icon: calculator
+          icon_pack: fas
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Analyst
+          company: IADB
+          company_url: ''
+          company_logo: IDB_logo
+          location: California
+          date_start: '2014-06-01'
+          date_end: '2018-06-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+
+        - title: PhD student
+          company: Toulouse School of Economics
+          company_url: ''
+          company_logo: org-x
+          location: Toulouse
+          date_start: '2018-09-01'
+          date_end: ''
+          description: Writing my JMP.
+    design:
+      columns: '2'
 ---
