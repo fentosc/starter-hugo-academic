@@ -8,7 +8,7 @@ author_notes:
 - "TSE"
 - "UNAM"
 - "U Panamericana"
-date: "2018-09-01T00:00:00Z"
+date: "2022-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
