@@ -1,14 +1,15 @@
 ---
-title: "Modelos De Crecimiento Económico En R"
+title: "Diagnóstico, perspectiva y políticas Vocación productiva, empleo, ingresos y equidad en la Ciudad de México"
 authors:
 - admin
-- Luis Quintana
+- Luis Quintana Romero
+- Miguel Ángel Mendoza González
+- Carlos Salas
+- Marcos Valdivia
 - Blanca Garza
 author_notes:
 - "TSE"
-- "UNAM"
-- "U Panamericana"
-date: "2022-11-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,27 +19,27 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ALPHA EDITORIAL, ISBN: 9789587788402"
-publication_short: "ALPHA EDITORIAL"
+publication: "IDB Working Paper Series, Technical Note IDB-TN-1477"
+publication_short: "IDB Working Paper Series"
 
-abstract: Presenta de una forma didáctica los modelos de crecimiento económico que los economistas han formulado con el fin de comprender la manera en que los países y regiones logran alcanzar altos niveles de desarrollo y bienestar. Para lo cual hace uso de programación y códigos en el ambiente computacional de R con el fin de realizar simulaciones empíricas con los modelos y utilizar datos reales de las principales economías latinoamericanas.
+abstract: El objetivo principal de este trabajo fue generar escenarios deseables de la ocupación en la Ciudad de México, y su sistema región. Para lograr dicho objetivo, se definieron tres etapas consistentes en (1) elaborar un diagnóstico de la estructura productiva y de servicios, así como de la estructura ocupacional y de ingresos de la Ciudad de México y su región de influencia; (2) desarrollar modelos para la construcción de escenarios cuantitativos de corto, mediano y largo plazo; y, (3) realizar propuestas de política económica que permitan alcanzar los escenarios deseables. 
 
 # Summary. An optional shortened abstract.
-summary: Presenta de una forma didáctica los modelos de crecimiento económico que los economistas han formulado con el fin de comprender la manera en que los países y regiones logran alcanzar altos niveles de desarrollo y bienestar.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R
+url_pdf: http://dx.doi.org/10.18235/0001338
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: https://oscarfentanes.com/libro/datos_solow.xlsx
+# url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
@@ -48,7 +49,7 @@ url_dataset: https://oscarfentanes.com/libro/datos_solow.xlsx
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **ALPHAEDITORIAL**'
+  caption: 'Image credit: [**INEGI**](https://rde.inegi.org.mx/wp-content/uploads/2019/05/RDE28_05_img00.jpg)'
   focal_point: ""
   preview_only: false
 
