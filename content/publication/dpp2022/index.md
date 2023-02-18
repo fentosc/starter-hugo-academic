@@ -25,7 +25,7 @@ publication_types: ["4"]
 publication: "Gobierno de la Ciudad de México; Universidad Nacional Autónoma de México"
 publication_short: "CDMX-UNAM"
 
-abstract: 'The main objective of this work was to generate desirable scenarios of occupation in Mexico City, and its regional system. To achieve this main objective, three stages were defined consisting of: (1) elaborating a diagnosis of the productive and service structure, as well as the occupational and income structure of Mexico City and its region of influence; (2) develop models for the construction of short-, medium- and long-term quantitative scenarios; and, (3) make economic policy proposals that allow achieving the desirable scenarios.'
+abstract: 'El objetivo principal de este trabajo fue generar escenarios deseables de la ocupación en la Ciudad de México, y su sistema región. Para lograr dicho objetivo, se definieron tres etapas consistentes en: (1) elaborar un diagnóstico de la estructura productiva y de servicios, así como de la estructura ocupacional y de ingresos de la Ciudad de México y su región de influencia; (2) desarrollar modelos para la construcción de escenarios cuantitativos de corto, mediano y largo plazo; y, (3) realizar propuestas de política económica que permitan alcanzar los escenarios deseables.'
 
 # Summary. An optional shortened abstract.
 summary: El objetivo principal de este trabajo fue generar escenarios deseables de la ocupación en la Ciudad de México, y su sistema región.
