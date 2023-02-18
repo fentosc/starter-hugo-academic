@@ -80,9 +80,9 @@ email: ''
 highlight_name: true
 ---
 
-<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are macroeconomics and development economics.</p>
+<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are urban, trade, development and macro.</p>
 
-<p> Before pursuing my graduate studies, I worked as an analyst for the Inter-American Development Bank.</p>
+<p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
 <p> <b>Full Name</b>: Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /> </p>
 
