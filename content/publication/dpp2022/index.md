@@ -28,16 +28,16 @@ publication_short: "IDB Working Paper Series"
 abstract: El objetivo principal de este trabajo fue generar escenarios deseables de la ocupación en la Ciudad de México, y su sistema región. Para lograr dicho objetivo, se definieron tres etapas consistentes en (1) elaborar un diagnóstico de la estructura productiva y de servicios, así como de la estructura ocupacional y de ingresos de la Ciudad de México y su región de influencia; (2) desarrollar modelos para la construcción de escenarios cuantitativos de corto, mediano y largo plazo; y, (3) realizar propuestas de política económica que permitan alcanzar los escenarios deseables. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: El objetivo principal de este trabajo fue generar escenarios deseables de la ocupación en la Ciudad de México, y su sistema región.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: http://dx.doi.org/10.18235/0001338
+url_pdf: https://ru.crim.unam.mx/handle/123456789/949
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -49,7 +49,7 @@ url_pdf: http://dx.doi.org/10.18235/0001338
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**INEGI**](https://rde.inegi.org.mx/wp-content/uploads/2019/05/RDE28_05_img00.jpg)'
+  caption: 'Image credit: **CDMX**'
   focal_point: ""
   preview_only: false
 
