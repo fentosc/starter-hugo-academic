@@ -2,7 +2,7 @@
 title: "NAFTA-USMCA and Wages in Mexico"
 authors:
 - admin
-- Santiago Levy
+- Santiago Levy 
 author_notes:
 - "TSE"
 - "Brookings"
