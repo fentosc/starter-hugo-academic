@@ -3,7 +3,7 @@ title: "The longitudinal linkage of Mexico’s economic census 1999-2014"
 authors:
 - admin
 - Matias Busso
-- Santiago levy
+- Santiago Levy
 author_notes:
 - "TSE"
 - "IADB"
