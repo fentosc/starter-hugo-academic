@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Libro
+  - name: Book
     url: 'libro'
     weight: 50
   # - name: Posts
