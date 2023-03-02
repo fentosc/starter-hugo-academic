@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: oscar.fentanes@tse-fr.eu
+    label: oscar.fentanes@tse-fr.eu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=POL18M4AAAAJ&hl=es
