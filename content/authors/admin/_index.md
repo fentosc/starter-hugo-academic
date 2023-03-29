@@ -53,6 +53,7 @@ social:
     label: oscar.fentanes@tse-fr.eu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
+    label: See my publications
     link: https://scholar.google.com/citations?user=POL18M4AAAAJ&hl=es
   # - icon: github
   #   icon_pack: fab
