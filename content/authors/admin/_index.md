@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate at TSE
+role: PhD candidate at [TSE](https://www.tse-fr.eu/people/oscar-fentanes)
 
 # Organizations/Affiliations to show in About widget
 organizations:
