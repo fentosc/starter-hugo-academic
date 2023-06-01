@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are urban, trade, development and macro.</p>
+<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are development, macro and urban economics.</p>
 
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
