@@ -64,10 +64,10 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-    label: Download my CV
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
+  #  label: Download my CV
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Oscar_Fentanes
@@ -83,7 +83,7 @@ highlight_name: true
 ---
 
 <p> <b>Download my CV</b>: 
-<a href="/static/uploads/resume.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
+<a href="/uploads/resume.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
 
 <p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are development, macro and urban economics.</p>
 
