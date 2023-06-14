@@ -51,6 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     label: oscar.fentanes@tse-fr.eu
+social:
+  - icon: envelope
+    icon_pack: fas
+    label: oscar.fentanes@tse-fr.eu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     label: See my publications
@@ -72,8 +76,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/Oscar_Fentanes
     label: Follow me on Twitter
-    display:
-      header: true
+display:
+header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
