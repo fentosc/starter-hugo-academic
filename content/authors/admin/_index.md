@@ -85,6 +85,9 @@ highlight_name: true
 <p> <b>Download my CV</b>: 
 <a href="/uploads/resume.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
 
+<p> <a href="/uploads/resume.pdf"> <b>Download my CV</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
+
+
 <p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are development, macro and urban economics.</p>
 
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
