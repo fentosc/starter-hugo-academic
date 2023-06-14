@@ -51,10 +51,6 @@ social:
   - icon: envelope
     icon_pack: fas
     label: oscar.fentanes@tse-fr.eu
-social:
-  - icon: envelope
-    icon_pack: fas
-    label: oscar.fentanes@tse-fr.eu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     label: See my publications
@@ -85,6 +81,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+<p> <b>Download my CV</b>: 
+<a href="/static/uploads/resume.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
 
 <p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are development, macro and urban economics.</p>
 
