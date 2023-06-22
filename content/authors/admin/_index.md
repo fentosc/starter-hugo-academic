@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate at [TSE](https://www.tse-fr.eu/people/oscar-fentanes)
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Toulouse School of Economics
-    url: https://www.tse-fr.eu/fr
+    url: https://www.tse-fr.eu/people/oscar-fentanes
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'I am a PhD student at Toulouse School of Economics. Former analyst at the Inter-American Development Bank'
