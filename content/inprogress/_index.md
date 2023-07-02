@@ -1,5 +1,5 @@
 ---
-title: Current work
+title: Work in progress
 cms_exclude: true
 
 # View.
@@ -14,5 +14,3 @@ header:
   caption: ''
   image: ''
 ---
-
-Current work:

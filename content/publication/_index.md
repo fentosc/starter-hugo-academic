@@ -14,5 +14,3 @@ header:
   caption: ''
   image: ''
 ---
-
-Current work:
