@@ -22,8 +22,8 @@ main:
   - name: Publications
     url: 'publication'
     weight: 15
-  - name: Current work
-    url: 'current'
+  - name: Work in progress
+    url: 'inprogress'
     weight: 16
   # - name: Contact
   #   url: '#contact'
