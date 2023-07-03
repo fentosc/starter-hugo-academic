@@ -26,7 +26,7 @@ abstract: Total Factor Productivity fell in Mexico since the early 1990s despite
  
 
 # Summary. An optional shortened abstract.
-summary: TFP
+summary: TFP  fell in Mexico since the 1990's despite NAFTA. We argue that this was explained by dysfunctional firm dynamics. High productivity firms exited, surviving ones did not become more productive, and entrants were less productive than survivors, mostly because of informality. Our results shed light on the impacts of trade reforms in economies with large informality.
 
 tags:
 - Source Themes
