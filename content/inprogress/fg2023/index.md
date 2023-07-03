@@ -64,5 +64,5 @@ projects: []
 # slides: example
 ---
 
-
+In this paper, we study the link between rapid economic growth and changes in the plant size distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment. To link these facts, we use a statistical accounting exercise to decompose output growth into aggregate productivity growth, input growth and selection and reallocation effects.
 
