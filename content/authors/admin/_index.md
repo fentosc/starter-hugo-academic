@@ -68,10 +68,10 @@ social:
   #  icon_pack: ai
   #  link: uploads/resume.pdf
   #  label: Download my CV
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Oscar_Fentanes
-    label: Follow me on Twitter
+   #- icon: twitter
+    # icon_pack: fab
+     # link: https://twitter.com/Oscar_Fentanes
+    # label: Follow me on Twitter
 display:
 header: true
 
