@@ -1,5 +1,5 @@
 ---
-title: "THE EFFECTS OF HIGHWAYS ON FIRM DYNAMICS: Evidence from Mexico"
+title: "The effects of highways on firm dynamics: Evidence from Mexico"
 authors:
 - admin
 - Matias Busso
