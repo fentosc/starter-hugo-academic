@@ -1,5 +1,5 @@
 ---
-title: "Diagnóstico, perspectiva y políticas Vocación productiva, empleo, ingresos y equidad en la Ciudad de México"
+title: "Assessment, Perspectives and Policies: Productive Structure, Employment and Income Inequality in Mexico City (in Spanish)"
 authors:
 - admin
 - Luis Quintana

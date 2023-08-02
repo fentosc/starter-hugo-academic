@@ -1,5 +1,5 @@
 ---
-title: "Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México"
+title: "Optimal contracts for private investment in the Mexican Oil Industry (in Spanish)"
 authors:
 - admin
 author_notes:
