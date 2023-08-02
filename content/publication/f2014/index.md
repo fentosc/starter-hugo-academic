@@ -23,7 +23,7 @@ publication_short: "Tesis de maestría, CIDE"
 abstract: El debate sobre la apertura del sector hidrocarburos en México ha sido un tema muy sensible para el país debido a la histórica aversión a la intervención privada, en particular extranjera, desde su expropiación en 1938. Las reformas constitucionales de 2013 abren la puerta a la posibilidad de tener inversión privada en los sectores exploración y extracción. Tomando como base el modelo clásico de extracción de recursos agotables (Hotelling, 1931), se determinan las condiciones bajo las cuales la intervención del sector privado en la industria petrolera nacional resulta conveniente. Además se determinan las tasas óptimas de extracción y el horizonte de planeación resultante bajo cada contrato previsto por la constitución.
 
 # Summary. An optional shortened abstract.
-summary: We study the impact of import competition on Mexican firm outcomes between 2003 and 2013 by exploiting variation in import penetration across industries.
+summary: We study the optimal dynamic contracts between a State-owned oil producer and a private contractor to maximize social welfare.
 
 tags:
 - Source Themes
