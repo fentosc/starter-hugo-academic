@@ -15,4 +15,4 @@ header:
   image: ''
 ---
 
-(Manuscripts upon request)
+(Manuscripts available upon request)
