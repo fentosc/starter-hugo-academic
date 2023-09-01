@@ -207,8 +207,8 @@ sections:
           icon_pack: fab
         - name: Julia
           description: Advanced
-          icon: table-cells
-          icon_pack: fas
+          icon: julia
+          icon_pack: custom
         - name: Stata
           description: Advanced
           icon: stata
