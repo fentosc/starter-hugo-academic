@@ -221,6 +221,10 @@ sections:
           description: Intermediate
           icon: matlab
           icon_pack: custom
+        - name: Python
+          description: Basic
+          icon: python
+          icon_pack: custom          
   - block: experience
     content:
       title: Experience
