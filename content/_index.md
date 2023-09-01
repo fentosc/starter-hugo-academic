@@ -241,13 +241,13 @@ sections:
           company: IADB
           company_url: ''
           company_logo: IDB_logo
-          location: California
+          location: Washington, D.C.
           date_start: '2014-06-01'
           date_end: '2018-06-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Analyzing
               * Modelling
 
         - title: PhD student
@@ -257,7 +257,7 @@ sections:
           location: Toulouse
           date_start: '2018-09-01'
           date_end: ''
-          description: Writing my JMP.
+          description: Writing my JMP
     design:
       columns: '2'
 ---
