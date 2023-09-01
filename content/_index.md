@@ -211,8 +211,8 @@ sections:
           icon_pack: fas
         - name: Stata
           description: Advanced
-          icon: calculator
-          icon_pack: fas
+          icon: stata
+          icon_pack: custom
         - name: QGis
           description: Intermediate
           icon: qgis
