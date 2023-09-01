@@ -217,6 +217,10 @@ sections:
           description: Intermediate
           icon: qgis
           icon_pack: custom
+        - name: Matlab
+          description: Intermediate
+          icon: matlab
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
