@@ -247,8 +247,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analyzing
-              * Modelling
+              * Microdata analysis and drafting
 
         - title: PhD student
           company: Toulouse School of Economics
