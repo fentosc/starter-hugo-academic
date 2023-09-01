@@ -213,6 +213,10 @@ sections:
           description: Advanced
           icon: calculator
           icon_pack: fas
+        - name: QGis
+          description: Intermediate
+          icon: qgis
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
