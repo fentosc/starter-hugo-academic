@@ -202,15 +202,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: Advanced
           icon: r-project
           icon_pack: fab
         - name: Julia
-          description: 50%
+          description: Advanced
           icon: table-cells
           icon_pack: fas
         - name: Stata
-          description: 80%
+          description: Advanced
           icon: calculator
           icon_pack: fas
   - block: experience
