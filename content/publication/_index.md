@@ -15,5 +15,3 @@ header:
   image: ''
 ---
 
-As research assistant:
-
