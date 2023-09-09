@@ -1,5 +1,6 @@
 ---
 title: Work in progress
+subtitle: (Manuscripts available upon request)
 cms_exclude: true
 
 # View.
@@ -15,6 +16,6 @@ header:
   image: ''
 ---
 
-(Manuscripts available upon request)
+
 
 
