@@ -238,10 +238,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD student
-          company: Toulouse School of Economics
+          company: CIDE
           company_url: ''
-          company_logo: TSE_logo
-          location: Toulouse
+          company_logo: CIDE_logo
+          location: Mexico
           date_start: '2012-09-01'
           date_end: '2014-09-01'
           description: Writing my JMP
