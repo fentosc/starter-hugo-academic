@@ -237,15 +237,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Masters student
-          company: Center for Research and Teaching in Economics
-          company_url: ''
-          company_logo: 
-          location: Mexico City
-          date_start: '2012-09-01'
-          date_end: '2014-09-01'
-          description: Masters in Economics
-          
         - title: Analyst
           company: IADB
           company_url: ''
