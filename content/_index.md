@@ -241,7 +241,7 @@ sections:
           company: Center for Reaserch and Teaching in Economics
           company_url: ''
           company_logo: CIDE_logo
-          location: Mexico City
+          location: Mexico City, Mexico
           date_start: '2012-07-01'
           date_end: '2014-07-01'
           description: Master's in Economics
@@ -250,7 +250,7 @@ sections:
           company: Inter-American Development Bank
           company_url: ''
           company_logo: IDB_logo
-          location: Washington DC, US
+          location: Washington D.C., USA
           date_start: '2014-06-01'
           date_end: '2018-06-01'
           description: |2-
