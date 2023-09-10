@@ -247,7 +247,7 @@ sections:
           description: Master's in Economics
           
         - title: Analyst
-          company: IADB
+          company: Inter-American Development Bank
           company_url: ''
           company_logo: IDB_logo
           location: Washington, D.C.
