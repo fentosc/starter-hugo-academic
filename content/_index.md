@@ -257,6 +257,16 @@ sections:
           date_start: '2018-09-01'
           date_end: ''
           description: Writing my JMP
+          
+        - title: PhD student
+          company: Toulouse School of Economics
+          company_url: ''
+          company_logo: TSE_logo
+          location: Toulouse
+          date_start: '2012-09-01'
+          date_end: '2014-09-01'
+          description: Writing my JMP
+          
     design:
       columns: '2'
 ---
