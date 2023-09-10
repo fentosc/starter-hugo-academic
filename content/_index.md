@@ -240,7 +240,7 @@ sections:
       - title: Masters student
           company: Center for Research and Teaching in Economics
           company_url: ''
-          company_logo: Cide
+          company_logo: CIDE_logo
           location: Mexico City
           date_start: '2012-09-01'
           date_end: '2014-09-01'
