@@ -238,7 +238,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Master's student
-          company: CIDE
+          company: Center for Reaserch and Teaching in Economics
           company_url: ''
           company_logo: CIDE_logo
           location: Mexico
