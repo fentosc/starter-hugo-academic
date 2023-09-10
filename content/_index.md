@@ -241,7 +241,7 @@ sections:
           company: Center for Reaserch and Teaching in Economics
           company_url: ''
           company_logo: CIDE_logo
-          location: Mexico
+          location: Mexico City
           date_start: '2012-07-01'
           date_end: '2014-07-01'
           description: Master's in Economics
@@ -250,7 +250,7 @@ sections:
           company: Inter-American Development Bank
           company_url: ''
           company_logo: IDB_logo
-          location: Washington, D.C.
+          location: Washington DC, US
           date_start: '2014-06-01'
           date_end: '2018-06-01'
           description: |2-
@@ -262,7 +262,7 @@ sections:
           company: Toulouse School of Economics
           company_url: ''
           company_logo: TSE_logo
-          location: Toulouse
+          location: Toulouse, France
           date_start: '2018-09-01'
           date_end: ''
           description: Writing my JMP
