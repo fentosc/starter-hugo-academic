@@ -237,14 +237,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD student
+        - title: Master's student
           company: CIDE
           company_url: ''
           company_logo: CIDE_logo
           location: Mexico
-          date_start: '2012-09-01'
-          date_end: '2014-09-01'
-          description: Writing my JMP
+          date_start: '2012-07-01'
+          date_end: '2014-07-01'
+          description: Master's in Economics
           
         - title: Analyst
           company: IADB
