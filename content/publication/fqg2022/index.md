@@ -1,6 +1,6 @@
 ---
-title: "Modelos De Crecimiento Económico En R"
-subtitle: "Modelos De Crecimiento Económico En R"
+title: "Economic Growth Models in R"
+subtitle: "Modelos De Crecimiento Económico en R"
 authors:
 - admin
 - Luis Quintana
@@ -25,10 +25,10 @@ publication_types: ["5"]
 publication: "ALPHA EDITORIAL, ISBN: 9789587788402"
 publication_short: "ALPHA EDITORIAL"
 
-abstract: Presenta de una forma didáctica los modelos de crecimiento económico que los economistas han formulado con el fin de comprender la manera en que los países y regiones logran alcanzar altos niveles de desarrollo y bienestar. Para lo cual hace uso de programación y códigos en el ambiente computacional de R con el fin de realizar simulaciones empíricas con los modelos y utilizar datos reales de las principales economías latinoamericanas.
+abstract: This book presents, in a didactic way, the main economic growth models that economists have formulated to understand how countries achieve high levels of development and well-being. To do this, it uses programming and code in the R and RStudio computational environment to carry out empirical simulations with the models and utilize real data from the main Latin American economies.
 
 # Summary. An optional shortened abstract.
-summary: Presenta de una forma didáctica los modelos de crecimiento económico que los economistas han formulado con el fin de comprender la manera en que los países y regiones logran alcanzar altos niveles de desarrollo y bienestar.
+summary: This book presents, in a didactic way, the main economic growth models that economists have formulated to understand how countries achieve high levels of development and well-being. To do this, it uses programming and code in the R and RStudio computational environment to carry out empirical simulations with the models and utilize real data from the main Latin American economies.
 
 tags:
 - Source Themes
