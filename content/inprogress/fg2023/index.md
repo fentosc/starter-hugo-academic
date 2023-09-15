@@ -1,5 +1,5 @@
 ---
-title: "Growth and the plant size distribution over the long-run"
+title: "Historical Persistence and the Dynamics of Development"
 authors:
 - admin
 - Jonas Gathen
@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: "TSE Working Paper"
 publication_short: "TSE Working Paper"
 
-abstract: In this paper, we study the link between rapid economic growth and changes in the plant size distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment. To link these facts, we use a statistical accounting exercise to decompose output growth into aggregate productivity growth, input growth and selection and reallocation effects.
+abstract: How important is historical persistence in explaining observed economic growth? Drawing on 40 years of panel data on Indonesian manufacturing plants, we show that initial conditions in 1975, characterized by small plants and a missing right-tail, are highly predictive of future growth dynamics. To disentangle the role of initial conditions from other main drivers of plant dynamics and quantify its importance, we build a structural model of non-stationary plant dynamics that closely matches observed growth dynamics. We find that initial conditions account for 20% of observed growth, compared to technology’s 60% - the main driver in standard models. Importantly, we find that initial conditions do not become less important over time. The reason is that initial conditions induce only a slow transition to a new stationary distribution due to the presence of sizable frictions, while changes in entry and aggregate technology continuously create new potential for growth.
 
 # Summary. An optional shortened abstract.
 summary: 
