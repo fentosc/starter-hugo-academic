@@ -1,5 +1,6 @@
 ---
 title: "Modelos De Crecimiento Económico En R"
+subtitle: "Modelos De Crecimiento Económico En R"
 authors:
 - admin
 - Luis Quintana
