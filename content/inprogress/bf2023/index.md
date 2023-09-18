@@ -64,8 +64,8 @@ projects: []
 # slides: example
 ---
 
-New transport infrastructure may directly affect a country by decreasing trade costs between locations but also indirectly through changes in locations characteristics such as their firm composition. 
+New transport infrastructure may directly affect a country by decreasing trade costs between locations but also indirectly through endogenous changes in locations productivity driven by firm dynamics. In this paper, we quantify both channels. 
 
-In this paper, we quantify both channels. Using data from Mexico, we empirically show that firms close to newly built highways increase their productivity and employment, and reduce their exit rates. 
+Using data from Mexico, we first empirically demonstrate that new highways affect firm dynamics. Leveraging on a natural experiment, we document that firms close to newly built highways increase their productivity and employment, and reduce their exit rates. 
 
-We then propose and estimate a spatial general equilibrium model with internal trade and firm dynamics to show, first, that new transportation infrastructure increases welfare and income; second, that income gains are unequally distributed across the country; and third, that endogenous changes in the firm composition explain up to half the income gains.
+Motivated by this evidence, we then propose and estimate a spatial general equilibrium model with internal trade and firm dynamics to show, first, that new transportation infrastructure increases welfare and income; second, that income gains are unequally distributed across the country; and third, that endogenous changes in the firm composition explain up to half the income gains.
