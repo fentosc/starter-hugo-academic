@@ -237,6 +237,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Bachelor student
+          company: Université Toulouse 1
+          company_url: ''
+          company_logo: UT1_logo
+          location: Toulouse, France
+          date_start: '2009-07-01'
+          date_end: '2011-07-01'
+          description: Bachelor in Economics
+          
         - title: Master's student
           company: Center for Reaserch and Teaching in Economics
           company_url: ''
