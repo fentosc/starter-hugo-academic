@@ -1,5 +1,5 @@
 ---
-title: "The effects of highways on firm dynamics: Evidence from Mexico"
+title: "Building up local productivity: Infrastructure and firm dynamics in Mexico"
 authors:
 - admin
 - Matias Busso
@@ -25,7 +25,7 @@ publication_short: "Work in progress"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: This paper studies how improvements in the highways network affect firm dynamics and the geographical distribution of economic activity. 
+summary: This paper studies how firm dynamics drive the aggregate and distributional effects of infrastructure on economic growth and development. 
 
 tags:
 - Source Themes
@@ -64,8 +64,8 @@ projects: []
 # slides: example
 ---
 
-New transport infrastructure may directly affect a country by decreasing trade costs between locations but also indirectly through endogenous changes in locations productivity driven by firm dynamics. In this paper, we quantify both channels. 
+New transport infrastructure decreases trade costs, which increases overall economic activity but also leads to spatial reallocation. A key overlooked channel is that changes in trade costs also change incentives of firms to enter, exit and produce, driving endogenous changes in local productivity. 
 
-Using data from Mexico, we first empirically demonstrate that new highways affect firm dynamics. Leveraging on a natural experiment, we document that firms close to newly built highways increase their productivity and employment, and reduce their exit rates. 
+In this paper, we show that endogenous firm dynamics are key to understand how infrastructure drives economic activity. We do this in two steps. First, using data from Mexico and leveraging on a natural experiment, we show that after new highways are built, firms increase their productivity and size while also reducing their exit rates. In the medium run, these effects persist along with higher entry rates. 
 
-Motivated by this evidence, we then propose and estimate a spatial general equilibrium model with internal trade and firm dynamics to show, first, that new transportation infrastructure increases welfare and income; second, that income gains are unequally distributed across the country; and third, that endogenous changes in the firm composition explain up to half the income gains.
+Second, motivated by this evidence, we propose and estimate a spatial general equilibrium model with internal trade and firm dynamics. Our model shows that new transport infrastructure increases welfare and real income. However, real income gains are unequally distributed across the country because of heterogeneous exposure and productivity gains. We measure that up to half the income gains from infrastructure are explained by local productivity growth primarily driven by endogenous firm selection.
