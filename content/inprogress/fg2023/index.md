@@ -1,5 +1,5 @@
 ---
-title: "Historical Persistence and the Dynamics of Development"
+title: "Making a Growth Miracle: Historical Persistence and the Dynamics of Development"
 authors:
 - admin
 - Jonas Gathen
@@ -64,5 +64,13 @@ projects: []
 # slides: example
 ---
 
-In this paper, we study the link between rapid economic growth and changes in the plant size distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment. To link these facts, we use a statistical accounting exercise to decompose output growth into aggregate productivity growth, input growth and selection and reallocation effects.
+What explains growth miracles? We look at this question through the lens of a model of plant dynamics where periods of rapid economic growth are driven by aggregate changes in the economic environment and catch-up growth. 
 
+The model features a time-varying growth path with endogenous structural change across sectors, the frictional
+accumulation and reallocation of labor and capital across plants, and productivity growth through the endogenous selection of plants and exogenous changes in technology.
+
+Building on 40 years of plant-level manufacturing panel data for Indonesia, we show how to tractably estimate the model on the micro data along the observed growth path without assuming that the economy is at a steady state. 
+
+Transition growth from initial conditions in 1975 accounts for 42 percent of Indonesia's subsequent industrialization. But transition growth does not become less important over time because further changes in worker and plant demographics induce new adjustments. 
+
+Observed changes in government policy explain few changes in worker and plant demographics and thus drive at most 10% of observed economic growth.

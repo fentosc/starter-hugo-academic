@@ -1,5 +1,5 @@
 ---
-title: "Nafta, Dysfunctional Firm Dynamics, and Mexico's Dismal Productivity Performance"
+title: "Dysfunctional Firm Dynamics and Mexico's Dismal Productivity Performance"
 authors:
 - admin
 - Santiago Levy
@@ -64,11 +64,10 @@ projects: []
 # slides: example
 ---
 
-Total Factor Productivity fell in Mexico since the early 1990s despite reforms to increase efficiency including participation in the North American Free Trade Agreement with Canada and the United States; contrary to expectations, there was productivity divergence. In this paper, we exploit a rich firm database to understand this outcome. 
+Total Factor Productivity fell in Mexico since the early 1990s despite many reforms to increase efficiency, including multiple free trade agreements, privatization of state-owned enterprises, and the creation of regulatory agencies to promote domestic competition. We exploit a rich firm database to understand this outcome. We construct a twenty-year panel and analyze firm dynamics from two perspectives, the formal-informal and the sector composition of the economy. 
 
-We construct a twenty year panel and analyze firm dynamics from two complementary perspectives, formality status and sector composition. In the first case we show that firm dynamics were dysfunctional: high productivity firms exited, surviving ones did not become more productive, and entrants were less productive than survivors, mostly because of informality. 
+In the first case we show that firm dynamics were dysfunctional: high productivity formal firms exited; surviving firms hardly grew, and their productivity fell because more informalized than formalized; and entrants were less productive than survivors, mostly because of large informal entry. 
 
-In the second we show that while manufactures performed relatively better, its contribution to TFP was very modest because, despite Nafta, informal entry into the sector persisted. We document that for TFP, the formal informal composition of the economy is more important than its sector composition. We show that surviving firms grew very little and that more informalized than formalized. 
+In the second case we show that while manufacturing performed relatively better than services and commerce, its contribution to TFP was modest because, despite a remarkable increase in manufacturing exports, its share of resources and GDP fell, and informality in the sector persisted. We document that for TFP, the formal-informal composition of the economy is more important than its sector composition. 
 
-A back of the envelope calculation shows that absent informality, Mexico would have narrowed the productivity gap with its Nafta partners. Our results shed light on the impacts of trade reforms in economies with large informality.
-
+Back-of-the-envelope calculations show that absent the institutions that give rise to informality, Mexico would have experienced positive TFP growth.
