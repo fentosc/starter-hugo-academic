@@ -34,7 +34,7 @@ featured: false
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: uploads/resume.pdf
+url_pdf: uploads/FL2023_Dysfunctional.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
