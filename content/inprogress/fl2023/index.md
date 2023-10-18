@@ -1,5 +1,5 @@
 ---
-title: "Dysfunctional Firm Dynamics and Mexico's Dismal Productivity Performance"
+title: "Dysfunctional Firm Dynamics and Mexico's Dismal Productivity Performance (submitted)"
 authors:
 - admin
 - Santiago Levy

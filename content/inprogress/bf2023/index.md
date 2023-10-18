@@ -1,5 +1,5 @@
 ---
-title: "Building up local productivity: Infrastructure and firm dynamics in Mexico"
+title: "Building up local productivity: Infrastructure and firm dynamics in Mexico (JMP)"
 authors:
 - admin
 - Matias Busso
