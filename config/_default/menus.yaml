@@ -27,7 +27,7 @@ main:
     weight: 16
   - name: INEGI
     url: 'inegi'
-    weight: 20
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
