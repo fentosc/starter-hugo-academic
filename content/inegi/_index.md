@@ -1,5 +1,5 @@
 ---
-title: Modelos De Crecimiento Económico En R
+title: INEGI resources
 cms_exclude: true
 
 # Optional header image (relative to `static/media/` folder).
