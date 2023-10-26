@@ -71,9 +71,9 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
-  avatar: false
+  avatar:
     gravatar: false
-    shape: false
+    shape: square
   comment:
     provider: ''
     disqus:
