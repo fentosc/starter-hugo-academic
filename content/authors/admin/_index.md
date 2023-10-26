@@ -2,6 +2,8 @@
 # Display name
 #title: Oscar Fentanes
 
+active: false
+
 # Full name (for SEO)
 first_name: Oscar
 last_name: Fentanes
@@ -72,7 +74,7 @@ social:
     # icon_pack: fab
      # link: https://twitter.com/Oscar_Fentanes
     # label: Follow me on Twitter
-display: false
+display: 
 header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
