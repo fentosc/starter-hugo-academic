@@ -73,7 +73,7 @@ social:
      # link: https://twitter.com/Oscar_Fentanes
     # label: Follow me on Twitter
 display:
-header: false
+header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
