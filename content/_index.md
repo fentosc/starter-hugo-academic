@@ -5,13 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # - block: about.avatar
-  #   id: about
-  #   content:
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: admin
-  #     # Override your bio text from `authors/admin/_index.md`?
-  #     text:
+  #- block: about.avatar
+  - block: about
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -156,7 +157,7 @@ sections:
   #     title: Contact
   #     subtitle:
   #     text: |-
-  #      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   #     Contact (add or remove contact options as necessary)
   #     email: test@example.org
   #     phone: 888 888 88 88
