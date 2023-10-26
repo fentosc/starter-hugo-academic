@@ -73,7 +73,7 @@ social:
      # link: https://twitter.com/Oscar_Fentanes
     # label: Follow me on Twitter
 display:
-header: true
+header: false
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,6 +81,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+
 
 <p> <a href="/uploads/resume.pdf" target="_blank"> <b>Download my CV</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
 
