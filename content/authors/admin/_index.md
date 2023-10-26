@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-
+<img src="/uploads/avatar.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
 
 <p> <a href="/uploads/resume.pdf" target="_blank"> <b>Download my CV</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
 
