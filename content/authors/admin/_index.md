@@ -2,8 +2,6 @@
 # Display name
 #title: Oscar Fentanes
 
-active: false
-
 # Full name (for SEO)
 first_name: Oscar
 last_name: Fentanes
