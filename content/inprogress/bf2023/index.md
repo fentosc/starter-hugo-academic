@@ -64,8 +64,10 @@ projects: []
 # slides: example
 ---
 
-New transport infrastructure decreases trade costs, which increases overall economic activity but also leads to spatial reallocation. A key overlooked channel is that changes in trade costs also change incentives of firms to enter, exit and produce, driving endogenous changes in local productivity. 
+What determines the aggregate and distributional effects of new transport infrastructure? 
 
-In this paper, we show that endogenous firm dynamics are key to understand how infrastructure drives economic activity. We do this in two steps. First, using data from Mexico and leveraging on a natural experiment, we show that after new highways are built, firms increase their productivity and size while also reducing their exit rates. In the medium run, these effects persist along with higher entry rates. 
+One key overlooked channel is that infrastructure policy may change the incentives of firms to enter, exit, and grow, leading to endogenous changes in local productivity. In this paper, we quantify the importance of this channel using detailed Mexican microdata and a spatial general equilibrium model that incorporates firm dynamics. 
 
-Second, motivated by this evidence, we propose and estimate a spatial general equilibrium model with internal trade and firm dynamics. Our model shows that new transport infrastructure increases welfare and real income. However, real income gains are unequally distributed across the country because of heterogeneous exposure and productivity gains. We measure that up to half the income gains from infrastructure are explained by local productivity growth primarily driven by endogenous firm selection.
+Leveraging random delays in the construction of highways, we empirically show that productivity increases in places with better transport infrastructure. Firms play a critical role in driving this result: highways increase firms' survival and entry rates, and their total factor productivity and size. 
+
+Calibrating our model on census data between 1998 and 2018, we find small welfare and aggregate income gains but substantial spatial reallocation of workers and production. Nearly half of these effects are explained by changes in local labor productivity, which in turn, are driven by better firm selection.
