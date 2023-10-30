@@ -120,7 +120,6 @@ sections:
       filters:
         folders:
           - publication
-          #- inprogress
         featured_only: true
     design:
       columns: '2'
