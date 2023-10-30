@@ -74,5 +74,3 @@ sitemap:
 minify:
   _merge: deep
 
-params:
-  avatar: "static/uploads/avatar.jpg"
