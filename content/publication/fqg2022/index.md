@@ -32,7 +32,7 @@ summary: This book presents, in a didactic way, the main economic growth models 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links: 
 # - name: ""
