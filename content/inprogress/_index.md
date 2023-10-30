@@ -1,6 +1,6 @@
 ---
 title: Work in progress
-subtitle: (Manuscripts available upon request)
+# subtitle: 
 cms_exclude: true
 
 # View.
