@@ -85,8 +85,9 @@ highlight_name: true
 
 ---
 
-
 <p> <a href="/uploads/resume.pdf" target="_blank"> <b>Download my CV</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
+
+<p> <a href="/uploads/Oscar_Fentanes_JMP.pdf" target="_blank"> <b>Download my Job Market Paper</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
 
 <p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. I will be on the 2023/2024 econ <a href="https://www.tse-fr.eu/job-market-candidates-tse">job market</a>.</p>
 
