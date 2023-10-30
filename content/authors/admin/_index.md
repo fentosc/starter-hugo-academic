@@ -89,9 +89,9 @@ highlight_name: true
 <br>
 <a href="/uploads/Oscar_Fentanes_JMP.pdf" target="_blank"> <b>Download my Job Market Paper</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="20"/> </a>
 
-<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. I will be on the 2023/2024 econ <a href="https://www.tse-fr.eu/job-market-candidates-tse">job market</a>.</p>
+<p> I am a PhD student at the <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. I will be on the 2023/2024 econ <a href="https://www.tse-fr.eu/job-market-candidates-tse">job market</a>.</p>
 
-<p> My research interests are development, macro and urban economics.</p>
+<p> My research interests are macro, urban and development economics.</p>
  
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
