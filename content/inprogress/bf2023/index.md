@@ -34,7 +34,7 @@ featured: true
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: "/uploads/Oscar_Fentanes_JMP.pdf"
+url_pdf: uploads/Oscar_Fentanes_JMP.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
