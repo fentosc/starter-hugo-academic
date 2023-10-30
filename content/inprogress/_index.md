@@ -16,6 +16,3 @@ header:
   image: ''
 ---
 
-
-
-
