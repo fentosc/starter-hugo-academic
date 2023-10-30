@@ -84,7 +84,7 @@ highlight_name: true
 # <p> <img src="/uploads/avatar.jpg" alt="Girl in a jacket" style="width:400px;height:600px;"> Oscar Fentanes </p>
 
 ---
-
+ 
 <p> <a href="/uploads/resume.pdf" target="_blank"> <b>Download my CV</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
 
 <p> <a href="/uploads/Oscar_Fentanes_JMP.pdf" target="_blank"> <b>Download my Job Market Paper</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> </a> </p>
