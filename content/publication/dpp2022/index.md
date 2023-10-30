@@ -32,7 +32,7 @@ summary: El objetivo principal de este trabajo fue generar escenarios deseables 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links: 
 # - name: ""

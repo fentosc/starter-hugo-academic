@@ -29,7 +29,7 @@ summary: This note focuses on some features of Mexico's labor market that, in ou
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links: 
 # - name: ""

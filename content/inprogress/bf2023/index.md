@@ -29,7 +29,7 @@ summary: This paper studies how firm dynamics drive the aggregate and distributi
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links: 
 # - name: ""
