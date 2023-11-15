@@ -38,7 +38,7 @@ featured: false
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: https://www.jonasgathen.com/uploads/JMP_Jonas_Gathen.pdf
+url_pdf: 'https://www.jonasgathen.com/uploads/JMP_Jonas_Gathen.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
