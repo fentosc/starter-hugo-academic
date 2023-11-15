@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: "TSE Working Paper"
 publication_short: "TSE Working Paper"
 
-abstract: What explains growth miracles? We argue that growth miracles are driven by a fundamental race: as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth.
+abstract: What explains growth miracles? We argue that growth miracles are driven by a fundamental race; as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth.
 
 # Summary. An optional shortened abstract.
 summary: 
