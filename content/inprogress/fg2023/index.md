@@ -22,11 +22,7 @@ publication_types: ["3"]
 publication: "TSE Working Paper"
 publication_short: "TSE Working Paper"
 
-abstract: What explains growth miracles? We argue that growth miracles are driven by a fundamental race: as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth. 
-
-We quantify this race over the course of development using 40 years of plant level manufacturing panel data from Indonesia and a structural model of plant dynamics. 
-
-We estimate the model on the micro data along the observed growth path without assuming that the economy is ever at a steady state. While catch up growth starting from initial conditions in 1975 accounts for 42 percent of Indonesia’s subsequent industrialization, new changes in the economy induce new catch up growth. In the end, the economy never catches up.
+abstract: What explains growth miracles? We argue that growth miracles are driven by a fundamental race: as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -68,13 +64,9 @@ projects: []
 # slides: example
 ---
 
-What explains growth miracles? We look at this question through the lens of a model of plant dynamics where periods of rapid economic growth are driven by aggregate changes in the economic environment and catch-up growth. 
+What explains growth miracles? We argue that growth miracles are driven by a fundamental race: as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth. 
 
-The model features a time-varying growth path with endogenous structural change across sectors, the frictional
-accumulation and reallocation of labor and capital across plants, and productivity growth through the endogenous selection of plants and exogenous changes in technology.
+We quantify this race over the course of development using 40 years of plant level manufacturing panel data from Indonesia and a structural model of plant dynamics. 
 
-Building on 40 years of plant-level manufacturing panel data for Indonesia, we show how to tractably estimate the model on the micro data along the observed growth path without assuming that the economy is at a steady state. 
+We estimate the model on the micro data along the observed growth path without assuming that the economy is ever at a steady state. While catch up growth starting from initial conditions in 1975 accounts for 42 percent of Indonesia’s subsequent industrialization, new changes in the economy induce new catch up growth. In the end, the economy never catches up.
 
-Transition growth from initial conditions in 1975 accounts for 42 percent of Indonesia's subsequent industrialization. But transition growth does not become less important over time because further changes in worker and plant demographics induce new adjustments. 
-
-Observed changes in government policy explain few changes in worker and plant demographics and thus drive at most 10% of observed economic growth.
