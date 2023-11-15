@@ -22,16 +22,11 @@ publication_types: ["3"]
 publication: "TSE Working Paper"
 publication_short: "TSE Working Paper"
 
-abstract: What explains growth miracles? We argue that growth miracles are driven by a
-fundamental race: as the economy tries to catch-up to its steady state, changes in
-the economic environment move the steady state itself and provide new potential for
-catch-up growth. We quantify this race over the course of development using 40 years
-of plant-level manufacturing panel data from Indonesia and a structural model of plant
-dynamics. We estimate the model on the micro data along the observed growth path
-without assuming that the economy is ever at a steady state. While catch-up growth
-starting from initial conditions in 1975 accounts for 42% of Indonesia’s subsequent
-industrialization, new changes in the economy induce new catch-up growth. In the end,
-the economy never catches up.
+abstract: What explains growth miracles? We argue that growth miracles are driven by a fundamental race: as the economy tries to catch up to its steady state, changes in the economic environment move the steady state itself and provide new potential for catch up growth. 
+
+We quantify this race over the course of development using 40 years of plant level manufacturing panel data from Indonesia and a structural model of plant dynamics. 
+
+We estimate the model on the micro data along the observed growth path without assuming that the economy is ever at a steady state. While catch up growth starting from initial conditions in 1975 accounts for 42 percent of Indonesia’s subsequent industrialization, new changes in the economy induce new catch up growth. In the end, the economy never catches up.
 
 # Summary. An optional shortened abstract.
 summary: 
