@@ -22,7 +22,16 @@ publication_types: ["3"]
 publication: "TSE Working Paper"
 publication_short: "TSE Working Paper"
 
-abstract: How important is historical persistence in explaining observed economic growth? Drawing on 40 years of panel data on Indonesian manufacturing plants, we show that initial conditions in 1975, characterized by small plants and a missing right-tail, are highly predictive of future growth dynamics. To disentangle the role of initial conditions from other main drivers of plant dynamics and quantify its importance, we build a structural model of non-stationary plant dynamics that closely matches observed growth dynamics. We find that initial conditions account for 20% of observed growth, compared to technology’s 60% - the main driver in standard models. Importantly, we find that initial conditions do not become less important over time. The reason is that initial conditions induce only a slow transition to a new stationary distribution due to the presence of sizable frictions, while changes in entry and aggregate technology continuously create new potential for growth.
+abstract: What explains growth miracles? We argue that growth miracles are driven by a
+fundamental race: as the economy tries to catch-up to its steady state, changes in
+the economic environment move the steady state itself and provide new potential for
+catch-up growth. We quantify this race over the course of development using 40 years
+of plant-level manufacturing panel data from Indonesia and a structural model of plant
+dynamics. We estimate the model on the micro data along the observed growth path
+without assuming that the economy is ever at a steady state. While catch-up growth
+starting from initial conditions in 1975 accounts for 42% of Indonesia’s subsequent
+industrialization, new changes in the economy induce new catch-up growth. In the end,
+the economy never catches up.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -34,7 +43,7 @@ featured: false
 # links: 
 # - name: ""
 #   url: ""
-url_pdf: http://congress-files.s3.amazonaws.com/2022-07/Growth%2520and%2520the%2520plant%2520size%2520distribution%2520over%2520the%2520long-run.pdf
+url_pdf: https://www.jonasgathen.com/uploads/JMP_Jonas_Gathen.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
