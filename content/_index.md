@@ -268,14 +268,14 @@ sections:
 
               * Microdata analysis and drafting
 
-        - title: PhD student
+        - title: PhD Candidate
           company: Toulouse School of Economics
           company_url: ''
           company_logo: TSE_logo
           location: Toulouse, France
           date_start: '2018-09-01'
           date_end: ''
-          description: Writing my JMP
+          description: Job Market Candidate
 
     design:
       columns: '2'
