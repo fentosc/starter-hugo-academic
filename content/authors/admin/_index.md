@@ -91,7 +91,7 @@ highlight_name: true
 
 <p> I am a PhD student at the <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. I will be on the 2023/2024 econ <a href="https://www.tse-fr.eu/job-market-candidates-tse">job market</a>.</p>
 
-<p> My research interests are macro, urban and development economics.</p>
+<p> My research interests are macro-development, urban and trade.</p>
  
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
