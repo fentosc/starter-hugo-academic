@@ -91,7 +91,7 @@ highlight_name: true
 
 <p> I am a PhD candidate at the <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>.</p>
 
-<p> My research interests are macro-development, urban and trade.</p>
+<p> My research interests are macro-development, spatial and trade.</p>
  
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
