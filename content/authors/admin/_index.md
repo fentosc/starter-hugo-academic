@@ -97,6 +97,8 @@ highlight_name: true
 
 <p> <b>Full Name</b>: Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /> </p>
 
+I will be joining Universidad Carlos III de Madrid (UC3M) as an Assistant Professor in September 2024.
+
 <p> <b>Languages</b>: <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg' width="24" height="12" /> (Native), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg' width="24" height="12" /> (Fluent), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg' width="24" height="14" /> (Fluent) </p>
 
 {style="text-align: justify;"}
