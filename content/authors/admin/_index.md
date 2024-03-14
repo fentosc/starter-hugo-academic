@@ -89,15 +89,14 @@ highlight_name: true
 <br>
 <a href="/uploads/Oscar_Fentanes_JMP.pdf" target="_blank"> <b>Download my Job Market Paper</b> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="20"/> </a>
 
-<p> I am a PhD candidate at the <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>.</p>
+<p> I am a PhD candidate at the <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interests are macro-development, spatial and trade. </p>
 
-<p> My research interests are macro-development, spatial and trade.</p>
- 
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
+
+I will be joining Universidad Carlos III de Madrid (UC3M) as an Assistant Professor in September 2024.
 
 <p> <b>Full Name</b>: Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /> </p>
 
-I will be joining Universidad Carlos III de Madrid (UC3M) as an Assistant Professor in September 2024.
 
 <p> <b>Languages</b>: <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg' width="24" height="12" /> (Native), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg' width="24" height="12" /> (Fluent), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg' width="24" height="14" /> (Fluent) </p>
 
