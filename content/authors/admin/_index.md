@@ -93,7 +93,7 @@ highlight_name: true
 
 <p> Before pursuing my graduate studies, I worked as an analyst at the Inter-American Development Bank.</p>
 
-I will be joining Universidad Carlos III de Madrid (UC3M) as an Assistant Professor in September 2024.
+I will be joining Universidad Carlos III de Madrid (<a href="https://economics.uc3m.es/">UC3M</a>) as an Assistant Professor in September 2024.
 
 <p> <b>Full Name</b>: Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /> </p>
 
